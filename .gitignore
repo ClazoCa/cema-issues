@@ -1,0 +1,5 @@
+# Ignorar el archivo .env
+.env
+
+# Otros posibles archivos que quieras ignorar
+node_modules/
